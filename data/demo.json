@@ -3,7 +3,7 @@
     "id": 1,
     "tipo": "ingreso",
     "monto": 950.00,
-    "fecha": "2025-09-02",
+    "fecha": "2025-10-02",
     "categoria": "ventas",
     "descripcion": "Venta de mercancía en efectivo"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "tipo": "gasto",
     "monto": 280.50,
-    "fecha": "2025-09-03",
+    "fecha": "2025-10-03",
     "categoria": "insumos",
     "descripcion": "Compra de materia prima básica"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "tipo": "ingreso",
     "monto": 1200.00,
-    "fecha": "2025-09-05",
+    "fecha": "2025-10-05",
     "categoria": "servicios",
     "descripcion": "Servicio terminado para cliente local"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "tipo": "gasto",
     "monto": 150.00,
-    "fecha": "2025-09-06",
+    "fecha": "2025-10-06",
     "categoria": "otro",
     "descripcion": "Pago de transporte a proveedor"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "tipo": "gasto",
     "monto": 90.00,
-    "fecha": "2025-09-08",
+    "fecha": "2025-10-08",
     "categoria": "otro",
     "descripcion": "Recarga de teléfono y datos"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "tipo": "ingreso",
     "monto": 700.00,
-    "fecha": "2025-09-10",
+    "fecha": "2025-10-10",
     "categoria": "ventas",
     "descripcion": "Venta en bazar local"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "tipo": "ingreso",
     "monto": 650.00,
-    "fecha": "2025-09-14",
+    "fecha": "2025-10-14",
     "categoria": "servicios",
     "descripcion": "Servicio de instalación a domicilio"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "tipo": "gasto",
     "monto": 320.00,
-    "fecha": "2025-09-15",
+    "fecha": "2025-10-15",
     "categoria": "insumos",
     "descripcion": "Compra de insumos para la semana"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "tipo": "ingreso",
     "monto": 980.00,
-    "fecha": "2025-09-20",
+    "fecha": "2025-10-20",
     "categoria": "ventas",
     "descripcion": "Ventas del fin de semana"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "tipo": "gasto",
     "monto": 210.75,
-    "fecha": "2025-09-22",
+    "fecha": "2025-10-22",
     "categoria": "otro",
     "descripcion": "Pago de luz del local"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "tipo": "ingreso",
     "monto": 1350.00,
-    "fecha": "2025-10-01",
+    "fecha": "2025-11-01",
     "categoria": "servicios",
     "descripcion": "Paquete de servicios para nuevo cliente"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "tipo": "gasto",
     "monto": 400.00,
-    "fecha": "2025-10-02",
+    "fecha": "2025-11-02",
     "categoria": "insumos",
     "descripcion": "Compra de insumos mensuales"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "tipo": "gasto",
     "monto": 250.00,
-    "fecha": "2025-10-04",
+    "fecha": "2025-11-04",
     "categoria": "otro",
     "descripcion": "Renta parcial del espacio de trabajo"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "tipo": "ingreso",
     "monto": 890.00,
-    "fecha": "2025-10-06",
+    "fecha": "2025-11-06",
     "categoria": "ventas",
     "descripcion": "Venta a cliente recurrente"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "tipo": "ingreso",
     "monto": 760.00,
-    "fecha": "2025-10-10",
+    "fecha": "2025-11-10",
     "categoria": "ventas",
     "descripcion": "Ventas en efectivo del día"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "tipo": "gasto",
     "monto": 310.25,
-    "fecha": "2025-10-11",
+    "fecha": "2025-11-11",
     "categoria": "insumos",
     "descripcion": "Compra de empaques y materiales"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "tipo": "ingreso",
     "monto": 1500.00,
-    "fecha": "2025-10-18",
+    "fecha": "2025-11-18",
     "categoria": "servicios",
     "descripcion": "Servicio especial fin de semana"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "tipo": "gasto",
     "monto": 180.00,
-    "fecha": "2025-10-20",
+    "fecha": "2025-11-20",
     "categoria": "otro",
     "descripcion": "Mantenimiento básico del equipo"
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "tipo": "ingreso",
     "monto": 1100.00,
-    "fecha": "2025-11-02",
+    "fecha": "2025-12-02",
     "categoria": "ventas",
     "descripcion": "Ventas por temporada"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "tipo": "gasto",
     "monto": 350.50,
-    "fecha": "2025-11-03",
+    "fecha": "2025-12-03",
     "categoria": "insumos",
     "descripcion": "Reabastecimiento de inventario"
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "tipo": "ingreso",
     "monto": 980.00,
-    "fecha": "2025-11-05",
+    "fecha": "2025-12-05",
     "categoria": "servicios",
     "descripcion": "Servicio de consultoría breve"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "tipo": "gasto",
     "monto": 220.00,
-    "fecha": "2025-11-08",
+    "fecha": "2025-12-08",
     "categoria": "otro",
     "descripcion": "Publicidad en redes sociales"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "tipo": "ingreso",
     "monto": 1300.00,
-    "fecha": "2025-11-15",
+    "fecha": "2025-12-15",
     "categoria": "ventas",
     "descripcion": "Ventas en feria local"
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "tipo": "gasto",
     "monto": 275.00,
-    "fecha": "2025-11-18",
+    "fecha": "2025-12-18",
     "categoria": "insumos",
     "descripcion": "Compra de material extra para pedidos"
   }
